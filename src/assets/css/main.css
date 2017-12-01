@@ -1,0 +1,22 @@
+.navbar-inverse {
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.navbar-top-links>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-top-links>li>a:hover, .navbar-top-links>li>a:focus, .navbar-top-links>.open>a, .navbar-top-links>.open>a:hover, .navbar-top-links>.open>a:focus {
+    background-color: #2a6598;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFFFFF;
+}
+
+.month-list > div > div > a.active{
+	background-color: #337ab7;
+	border-color: #000000;
+	color:#FFFFFF;
+}
